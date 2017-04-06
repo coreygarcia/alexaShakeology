@@ -1,0 +1,49 @@
+{
+  "session": {
+    "sessionId": "SessionId.d5c297c6-9a77-4ffd-915e-3416b2050fca",
+    "application": {
+      "applicationId": "amzn1.ask.skill.4960aa34-2b08-4371-974c-66e9003836b1"
+    },
+    "attributes": {
+      "flavor": "chocolate",
+      "currentRecipe": {
+        "id": "4",
+        "title": "Chocolate Banana Nutter",
+        "flavor": "chocolate",
+        "addons": [
+          {
+            "ingredient": "water",
+            "amount": "1 cup"
+          },
+          {
+            "ingredient": "banana",
+            "amount": "1 medium"
+          },
+          {
+            "ingredient": "peanut butter",
+            "amount": "1 tablespoon"
+          }
+        ]
+      },
+      "visitedRecipeIds": [
+        "4",
+        "2"
+      ]
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AHTRKGH4MIOVIJ7FYXMAGDB3U7ATWQE6VMTUS4QPWMTYYALPAJS6WIHPF3MRDQYFF5MTDMKAIQLIBZYYBXUCBBBD4YFZWKZZZXFOIHWUNZFFQ4CW7LSUX557ASLQHHYADKKW4T73ZASGEDZ5BAGOKTXJENL5IA5QBSDCUQESNK4FBQ2B5QSM2FEMZEWYIJY5S5CGGWQ3WTLFKXA"
+    },
+    "new": false
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.d2c3bad5-738e-47e3-96dd-7b0c087e1994",
+    "locale": "en-US",
+    "timestamp": "2016-10-07T21:26:50Z",
+    "intent": {
+      "name": "UseThisRecipeIntent",
+      "slots": {}
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,32 @@
+{
+  "session": {
+    "sessionId": "SessionId.d5c297c6-9a77-4ffd-915e-3416b2050fca",
+    "application": {
+      "applicationId": "amzn1.ask.skill.4960aa34-2b08-4371-974c-66e9003836b1"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AHTRKGH4MIOVIJ7FYXMAGDB3U7ATWQE6VMTUS4QPWMTYYALPAJS6WIHPF3MRDQYFF5MTDMKAIQLIBZYYBXUCBBBD4YFZWKZZZXFOIHWUNZFFQ4CW7LSUX557ASLQHHYADKKW4T73ZASGEDZ5BAGOKTXJENL5IA5QBSDCUQESNK4FBQ2B5QSM2FEMZEWYIJY5S5CGGWQ3WTLFKXA"
+    },
+    "new": false
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.aef2e909-e5bb-4757-ac89-056ad122006a",
+    "locale": "en-US",
+    "timestamp": "2016-10-07T21:25:41Z",
+    "intent": {
+      "name": "ShakeologyIntent",
+      "slots": {
+        "Ingredient": {
+          "name": "Ingredient"
+        },
+        "Flavor": {
+          "name": "Flavor",
+          "value": "chocolate"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
